@@ -1,4 +1,5 @@
 
+#import
 import test
 # This is a sample Python script.
 
